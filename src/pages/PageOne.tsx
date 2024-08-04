@@ -1,5 +1,5 @@
 import { PageOne as UIComponent } from "../components";
-import UsersContainer from "../lib/ListUsers/presentation/UsersContainer";
+import UsersContainer from "../app/ListUsers/presentation/UsersContainer";
 
 const PageOne = () => {
     return <>
